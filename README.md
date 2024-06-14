@@ -2,9 +2,8 @@
 ******Wine Quality Prediction******
 
 ### Project Description
-Determined the quality of wine based on various chemical parameters using machine learning models.
-Analyzed key features including citric acid,volatile acidity,alcohol and more.
-Experiment with various machine learning models such as Random Forest, Decision tree, and Logistic regression to find the best-performing model.
+Determined the quality of wine based on various chemical parameters using machine learning models. Conducted data analysis and visualization to examine key features including citric acid, volatile acidity, alcohol, and more. Experimented with various machine learning models such as Random Forest, Decision Tree, and Logistic Regression to find the best-performing model.
+
 
 ### Technologies Used
 - **Tools:** Python
