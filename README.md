@@ -1,4 +1,4 @@
-# Wine quality prediction
+
 ******Wine Quality Prediction******
 
 Determined the quality of wine based on various chemical parameters using machine learning models.
